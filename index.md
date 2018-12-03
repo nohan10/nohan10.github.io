@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my blog!
 
-You can use the [editor on GitHub](https://github.com/nohan10/nohan10.github.io/edit/master/index.md) 
-
+### Posts
 [3 AM Thoughts](https://nohan10.github.io/2018-03-12)
